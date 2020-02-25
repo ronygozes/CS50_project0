@@ -1,0 +1,48 @@
+body {
+    background-color: #f1f3f4;
+    
+}
+
+main {
+    min-height: 650px;
+}
+
+footer {
+    text-align: center;
+}
+
+
+img {
+    margin: 0 20px 10px 0;
+}
+
+tr {
+    padding: 5px;
+}
+
+td {
+    padding: 5px;
+    border: 1px dotted green;
+}
+
+th {
+    border: 2px solid black;
+    text-align: center;
+}
+
+td ul {
+    padding-left: 20px;
+}
+
+li > a {
+    color: DarkRed;
+}
+
+.main {
+    font-family: sans-serif;
+}
+
+#footer {
+    font-size: 14px;
+    color: purple;
+}
